@@ -2,7 +2,6 @@ import os
 import sys
 import threading
 from queue import Queue
-# from winreg import ConnectRegistry, OpenKey, EnumKey, QueryValueEx, HKEY_LOCAL_MACHINE
 
 # ----------------------------------------
 # CONFIGURAÇÕES DE PASTAS “SEGURAS” PARA REMOÇÃO
