@@ -57,7 +57,7 @@ O script irá:
 
 ## Exemplo de Saída
 
-![Output Screenshot](./example.png)
+![Output Screenshot](example.png)
 
 ---
 
